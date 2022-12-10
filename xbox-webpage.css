@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+  }
+  h1 {
+    text-align: center;
+    color: #00a1ff;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 32em;
+    height: 32em;
+  }
+  .description {
+    text-align: center;
+    color: #333;
+  }
+  .buy-now {
+    display: block;
+    margin: 0 auto;
+    background-color: #00a1ff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    width: 6em;
+    border-radius: 2em;
+  }
